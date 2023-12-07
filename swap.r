@@ -4,7 +4,9 @@ library(ggplot2)
 # Sample data
 data <- data.frame(
   x = 1:10,
-  y = c(2, 4, 3, 6, 5, 8, 7, 10, 9, 12)
+  z = 1:10,
+  y = c(2, 4, 3, 6, 5, 8, 7, 10, 9, 12), 
+  d = c(1,4)
 )
 
 # Create a scatter plot
