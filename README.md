@@ -1,7 +1,2 @@
 # Git-Introduction
-iozheyihghqdfg
-hgldhgdshg
-jglkghhzgiuogyeo
-hdsjfjqdshf
-hdglHSGLDSJ
-HKJGzhgt'itpigjnvskdgujgojgj
+soon
